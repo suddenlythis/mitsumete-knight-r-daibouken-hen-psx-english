@@ -1,0 +1,5 @@
+Mitsumete Knight R: Daibouken-hen (PlayStation) - English translation v1.0 - SHA-1 checksums
+
+Your disc image, 747,764,304 bytes
+4f4f9aadbe78d00b4b71c026325b5c59d6c82bd6  before patching: Mitsumete Knight R - Daibouken-hen (Japan).bin
+2b2832293e6e83badca6a848300a05d723e8e1ee  after patching with MitsumeteKnightR-EN-v1.0.xdelta

@@ -1,55 +1,18 @@
-# Prerequisites
-*.d
+# This repository holds release material only: the readme, the install guide,
+# checksums, screenshots and patch files. Everything else is ignored, so that
+# scripts, tools, source text and disc images can never be committed by mistake.
 
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
+# Ignore everything...
+*
 
-# Linker output
-*.ilk
-*.map
-*.exp
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
-
-# Debug files
-*.dSYM/
-*.su
-*.idb
-*.pdb
-
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
-
-# debug information files
-*.dwo
+# ...except these.
+!.gitignore
+!README.md
+!INSTALL.md
+!SHA1SUMS.txt
+!LICENSE
+!*.xdelta
+!*.cue
+!screenshots/
+!screenshots/*.png
+!screenshots/*.gif
