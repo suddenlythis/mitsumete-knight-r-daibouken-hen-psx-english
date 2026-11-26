@@ -14,7 +14,7 @@ you set out to find the antidote with two companions chosen from five young wome
  · [How to install](INSTALL.md) · [Checksums](SHA1SUMS.txt)
 
 <p align="center">
-  <img src="screenshots/01-title.png" width="640" alt="Title screen: the English logo 'Mitsumete Knight R - Great Adventure' above NEW GAME, CONTINUE and OPTION.">
+  <img src="screenshots/01-title.png" width="320" alt="Title screen: the English logo 'Mitsumete Knight R - Great Adventure' above NEW GAME, CONTINUE and OPTION.">
 </p>
 
 The logo in the opening movie, Japanese on the left and English on the right:
@@ -42,11 +42,12 @@ Version 1.0: the script, the menus and the pictures with text are translated.
 
 ## About the game
 
-Mitsumete Knight was made by Konami, the company behind Tokimeki Memorial, together with Red
-Company (Sakura Wars). It is a dating simulation on the Tokimeki Memorial formula, moved to a
-fantasy kingdom at war. Mitsumete Knight R came out eight months later. It takes the same
-characters and puts them in a different world and a different kind of game: a role-playing
-game with towns, a world map, turn-based battles and a party of three.
+Mitsumete Knight R is a role-playing game from Konami, with towns, a world map, turn-based
+battles and a party of three. It came out eight months after the first game, Mitsumete
+Knight, a dating simulation set in a fantasy kingdom at war. R takes the same characters and
+puts them in a different world and a different kind of game. It was made by a different
+Konami studio, KCE Shinjuku, with the series' general producer and original character
+designs carried over from the first game.
 
 | | |
 |---|---|
