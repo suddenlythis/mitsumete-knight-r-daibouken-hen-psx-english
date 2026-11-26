@@ -17,6 +17,12 @@ you set out to find the antidote with two companions chosen from five young wome
   <img src="screenshots/01-title.png" width="640" alt="Title screen: the English logo 'Mitsumete Knight R - Great Adventure' above NEW GAME, CONTINUE and OPTION.">
 </p>
 
+The logo in the opening movie, Japanese on the left and English on the right:
+
+<p align="center">
+  <img src="screenshots/intro-logo.gif" width="640" alt="Side-by-side clip of the opening movie: on the left the Japanese logo fades in over a blue sky, on the right the English logo 'Mitsumete Knight R - Great Adventure' fades in the same way.">
+</p>
+
 ## Progress
 
 Version 1.0: the script, the menus and the pictures with text are translated.
@@ -35,22 +41,6 @@ Version 1.0: the script, the menus and the pictures with text are translated.
 | Tested on | DuckStation | |
 
 ## About the game
-
-### How it differs from the first Mitsumete Knight game
-
-You do not need to have played the first game. R is not a sequel to its story: it reuses the
-cast in another world, so the same faces turn up in new roles.
-
-| | Mitsumete Knight | Mitsumete Knight R |
-|---|---|---|
-| Kind of game | Dating simulation with battles | Role-playing game with dating-sim mechanics |
-| Setting | The Kingdom of Dolphan, at war | The Kingdom of Orcadia, a different world |
-| You are | A foreign mercenary | The Captain of the Royal Guard |
-| Structure | Three years on a calendar, planning each week and training your stats | A journey from town to town on a world map, with levels and equipment |
-| Heroines | Sixteen | Five as companions (Sophia, Hanna, Raizze, Lesley, Linda), two at a time. Others from the first game appear in new roles |
-| Battles | Army battles in formation, and duels | Turn-based party battles with magic and combined attacks |
-| Courtship | Visits, invitations and dates through the year | Dates on the Sabbath, talk on the road, and clothes she can wear |
-| Mini-games | Several, at the festivals | None |
 
 Mitsumete Knight was made by Konami, the company behind Tokimeki Memorial, together with Red
 Company (Sakura Wars). It is a dating simulation on the Tokimeki Memorial formula, moved to a
@@ -93,13 +83,42 @@ Settings in the menu: the icon is then dimmed and cannot be selected.
 **More than one playthrough.** The game is made to be played several times. Odd and even
 playthroughs differ in items, costumes and ending, and affection and clothes carry over.
 
+- **Your companions change the story.** You pick two of five heroines at the start, and who
+  is with you changes scenes, conversations and events all the way through. One of them can
+  be swapped along the way.
+- **It is almost fully voiced.** About 6,600 lines of dialogue are spoken.
+- **The journey is the courtship.** Your companions talk to you on the road between towns,
+  react to how battles went, and ask you out on the Sabbath, with a date written for nearly
+  every town you pass through.
+- **Clothes matter.** There are over 140 pieces of clothing to find, buy on dates and earn.
+  What a companion wears shows on her portrait, and she has opinions about it.
+- **Fighting together counts.** Battles are quick and turn-based, and companions who like
+  you enough join you in combined attacks.
+- **It is funny.** The script is full of jokes, running gags and nods to films, anime and
+  other games, next to a story that takes itself seriously when it needs to.
+- **It rewards a second playthrough.** Odd and even playthroughs differ in items, costumes
+  and ending, affection and clothes carry over, and the full ending only comes the second
+  time round.
+- **Thirteen animated scenes**, an album of souvenir photos, and a hidden room left by the
+  developers for those who finish it.
+
+### How it differs from the first Mitsumete Knight game
+
+You do not need to have played the first game. R is not a sequel to its story: it reuses the
+cast in another world, so the same faces turn up in new roles.
+
+| | Mitsumete Knight | Mitsumete Knight R |
+|---|---|---|
+| Kind of game | Dating simulation with battles | Role-playing game with dating-sim mechanics |
+| Setting | The Kingdom of Dolphan, at war | The Kingdom of Orcadia, a different world |
+| You are | A foreign mercenary | The Captain of the Royal Guard |
+| Structure | Three years on a calendar, planning each week and training your stats | A journey from town to town on a world map, with levels and equipment |
+| Heroines | Sixteen, met around the capital | Five travel with you (Sophia, Hanna, Raizze, Lesley, Linda), two at a time, and are with you in every scene. Others from the first game appear in new roles |
+| Battles | Army battles in formation, and duels | Turn-based party battles with magic and combined attacks with your companions |
+| Courtship | Visits, invitations and dates through the year | Dates on the Sabbath, talk on the road, and clothes to choose for her |
+| Extras | Mini-games at the festivals, a newspaper and a glossary | Costumes and the Gaze view, an album of souvenir photos, and a changed story on the second playthrough |
+
 ## Screenshots
-
-The logo in the opening movie, Japanese on the left and English on the right:
-
-<p align="center">
-  <img src="screenshots/intro-logo.gif" width="640" alt="Side-by-side clip of the opening movie: on the left the Japanese logo fades in over a blue sky, on the right the English logo 'Mitsumete Knight R - Great Adventure' fades in the same way.">
-</p>
 
 | | |
 |---|---|
