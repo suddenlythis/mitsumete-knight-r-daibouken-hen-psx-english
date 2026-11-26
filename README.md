@@ -110,14 +110,14 @@ cast in another world, so the same faces turn up in new roles.
 
 | | Mitsumete Knight | Mitsumete Knight R |
 |---|---|---|
-| Kind of game | Dating simulation with battles | Role-playing game with dating-sim mechanics |
-| Setting | The Kingdom of Dolphan, at war | The Kingdom of Orcadia, a different world |
-| You are | A foreign mercenary | The Captain of the Royal Guard |
-| Structure | Three years on a calendar, planning each week and training your stats | A journey from town to town on a world map, with levels and equipment |
-| Heroines | Sixteen, met around the capital | Five travel with you (Sophia, Hanna, Raizze, Lesley, Linda), two at a time, and are with you in every scene. Others from the first game appear in new roles |
-| Battles | Army battles in formation, and duels | Turn-based party battles with magic and combined attacks with your companions |
-| Courtship | Visits, invitations and dates through the year | Dates on the Sabbath, talk on the road, and clothes to choose for her |
-| Extras | Mini-games at the festivals, a newspaper and a glossary | Costumes and the Gaze view, an album of souvenir photos, and a changed story on the second playthrough |
+| Kind of game | Dating simulation with battles | **Role-playing game with dating-sim mechanics** |
+| Setting | The Kingdom of Dolphan, at war | **The Kingdom of Orcadia, a different world** |
+| You are | A foreign mercenary | **The Captain of the Royal Guard** |
+| Structure | Three years on a calendar, planning each week and training your stats | **A journey from town to town on a world map, with levels and equipment** |
+| Heroines | Sixteen, met around the capital | **Five travel with you (Sophia, Hanna, Raizze, Lesley, Linda), two at a time, and are with you in every scene. Others from the first game appear in new roles** |
+| Battles | Army battles in formation, and duels | **Turn-based party battles with magic and combined attacks with your companions** |
+| Courtship | Visits, invitations and dates through the year | **Dates on the Sabbath, talk on the road, and clothes to choose for her** |
+| Extras | Mini-games at the festivals, a newspaper and a glossary | **Costumes and the Gaze view, an album of souvenir photos, and a changed story on the second playthrough** |
 
 ## Screenshots
 
