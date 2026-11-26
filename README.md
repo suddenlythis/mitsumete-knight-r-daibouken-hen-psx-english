@@ -17,7 +17,7 @@ you set out to find the antidote with two companions chosen from five young wome
   <img src="screenshots/01-title.png" width="320" alt="Title screen: the English logo 'Mitsumete Knight R - Great Adventure' above NEW GAME, CONTINUE and OPTION.">
 </p>
 
-The logo in the opening movie, Japanese on the left and English on the right:
+The logo animation in the opening movie was replaced, Japanese on the left and English on the right:
 
 <p align="center">
   <img src="screenshots/intro-logo.gif" width="640" alt="Side-by-side clip of the opening movie: on the left the Japanese logo fades in over a blue sky, on the right the English logo 'Mitsumete Knight R - Great Adventure' fades in the same way.">
